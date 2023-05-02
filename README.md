@@ -26,8 +26,11 @@ The repository contains the following files:
     
     main.py: the main Python file containing the code for the application
     README.md: this file, containing information about the project
-    LICENSE: the license file for the project
 
+Images 
+
+![image](https://i.imgur.com/FkzNrK8.png)
+![image2](https://i.imgur.com/MKtXmvj.png)
 
 Conclusion
 
